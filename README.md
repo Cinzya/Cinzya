@@ -1,7 +1,7 @@
 # Hi there 👀
 
 Welcome to my page!
-I'm Cynthia, broadcast software developer & operator from Germany, currently living in the Netherlands and working at [Monkey Bubble](https://monkeybubble.gg/).
+I'm Cynthia, software engineer from Germany currently living in the Netherlands.
 
 ## Things I code with
 
