@@ -1,7 +1,7 @@
 # Hi there 👀
 
 Welcome to my page!
-I'm Cynthia, software engineer from Germany currently living in the Netherlands.
+I'm Cynthia, developer from Germany currently living in the Netherlands.
 
 ## Things I code with
 
